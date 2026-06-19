@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuanivanthi.github.io/web-index-i-game-com-cn/sitemap.xml
